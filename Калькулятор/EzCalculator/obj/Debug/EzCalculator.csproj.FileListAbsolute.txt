@@ -1,0 +1,11 @@
+D:\Edward\Ucheba\Калькулятор\EzCalculator\bin\Debug\EzCalculator.exe.config
+D:\Edward\Ucheba\Калькулятор\EzCalculator\bin\Debug\EzCalculator.exe
+D:\Edward\Ucheba\Калькулятор\EzCalculator\bin\Debug\EzCalculator.pdb
+D:\Edward\Ucheba\Калькулятор\EzCalculator\obj\Debug\EzCalculator.csproj.SuggestedBindingRedirects.cache
+D:\Edward\Ucheba\Калькулятор\EzCalculator\obj\Debug\EzCalculator.Form1.resources
+D:\Edward\Ucheba\Калькулятор\EzCalculator\obj\Debug\EzCalculator.Properties.Resources.resources
+D:\Edward\Ucheba\Калькулятор\EzCalculator\obj\Debug\EzCalculator.csproj.GenerateResource.cache
+D:\Edward\Ucheba\Калькулятор\EzCalculator\obj\Debug\EzCalculator.csproj.CoreCompileInputs.cache
+D:\Edward\Ucheba\Калькулятор\EzCalculator\obj\Debug\EzCalculator.exe
+D:\Edward\Ucheba\Калькулятор\EzCalculator\obj\Debug\EzCalculator.pdb
+D:\Edward\Ucheba\Калькулятор\EzCalculator\obj\Debug\EzCalculator.csproj.AssemblyReference.cache
